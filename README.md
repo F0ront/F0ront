@@ -13,5 +13,5 @@
 🇺🇦 **Ukrainian:** Native
 
 ## Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=F0ront&theme=synthwave&border_radius=4.5&date_format=%5BY.%5Dn.j&card_width=350&card_height=195)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=F0ront&theme=synthwave&border_radius=4.5&date_format=%5BY.%5Dn.j&card_width=370&card_height=195)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F0ront&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
