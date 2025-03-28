@@ -1,4 +1,12 @@
-<h1 align="center">Hi, its my Github page, yea ( ´ ω ` )<a>
+<h1 align="center">Hi, its my Github page, yea ( ´ ω ` )</h1>
+<img src="https://i1.theportalwiki.net/img/thumb/b/bc/SpaceCore.png/300px-SpaceCore.png" align="right" width="150">
+<p align="left">
+  I love open source, and also SPAAACE.
+  
+  I am creating my own conlang.
+  
+  Constant impostor syndrome, and laziness.
+</p>
 
 ## My technology stack
 | Advanced?... | Intermediate, i think 👉👈 | Basic |
